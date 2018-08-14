@@ -1,5 +1,5 @@
 # OwlCarouselResponsiveSlide
 Owl carousel is a responsive slide example.
 
-npm install
+npm install<br/>
 grunt sync
